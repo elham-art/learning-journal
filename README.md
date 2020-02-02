@@ -7,6 +7,7 @@
 - aljumlan
 
 ![amman](https://media4.picsearch.com/is?m02MuAfU5XH8ck6AzO_Nrb8O_5KtJskfQVeOenPV06E&height=85)
+~~Theres no israiel~~
 ##  i think Mindsets are beliefs we hold about intellect, effort, and struggle. We tend to hold one of two beliefs about intelligence,  
 ## effort, and struggle.
 ## hat if your true learning potential was unknown, even unknowable, at best? What if it were impossible to foresee what you could
