@@ -3,14 +3,14 @@
 >good 
 
 
-##to create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
+## to create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
 
 
 - [x] one
 - [ ]  tow
 - [ ] three
 
-## we can invite amazon
+##  also we can invite amazon
 https://www.amazon.com/ - automatic!
 
 ## and simply add photo
