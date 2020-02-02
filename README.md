@@ -1,5 +1,6 @@
 # learning-journal 
-## in The heading on markdon  You can define relative links and image paths in your rendered files to help readers navigate to other files ## in your repository
+## we can use  blod on markdon  
+**This is me**
 ## about quoting in markdon You can define relative links and image paths in your rendered files to help readers navigate to other files ## in your repository,You can create a new paragraph by leaving a blank line between lines of text.
 ##  i think Mindsets are beliefs we hold about intellect, effort, and struggle. We tend to hold one of two beliefs about intelligence,  
 ## effort, and struggle.
