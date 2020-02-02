@@ -7,16 +7,9 @@
 - [x] one
 - [ ]  tow
 - [ ] three
-##to create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
 
-- [x] one
-- [ ]  tow
-- [ ] three
-##in markdown it easy to insirt your table like this
-name         |   age
------------- | -------------
-Ahmad        | 22
-saad         | 45
 ## we can invite google
 https://www.amazon.com/ - automatic!
 
+## and simply add photo
+![cofee](https://media1.picsearch.com/is?C6_i5id5CMmGq1X3donQLy-AULhdhoG0toZdL_LQUDs&height=238)
