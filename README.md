@@ -1,7 +1,7 @@
 # learning-journal 
-## we can use  blod on markdon  
+## we can use  blod styl on markdon  
 **This is me**
-we can make an unordered list by preceding one or more lines of text with - or *.
+ ## we can make an unordered list by preceding one or more lines of text with - or
 - elham
 - ahmad
 - aljumlan
